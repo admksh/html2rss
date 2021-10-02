@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'active_support/core_ext/hash'
+require 'active_support/core_ext/array/conversions.rb'
 require 'addressable/uri'
 
 module Html2rss
